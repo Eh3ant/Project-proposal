@@ -1,0 +1,25 @@
+Project Proposal: News Website
+
+1. Stack:
+
+Back-end: Flask for creating the web server and handling requests. SQLAlchemy will be used as the ORM to manage the database.
+
+Database: PostgreSQL for production to store user data, bookmarked articles, and any necessary metadata.
+
+APIs: Integration with NewsAPI.org to fetch and update news articles from various sources
+
+2. Focus:
+
+The focus of this project will be on back-end development. The primary goal is to efficiently manage data storage, retrieval, and integration with external APIs. The project will ensure a robust back-end infrastructure to handle user requests, API calls, and database operations seamlessly.
+
+3. Type:
+
+This project will be a web-based application, with the back-end serving as the core component. The front-end will be minimal, possibly using a simple templating engine like Jinja2 to display data for testing and demonstration purposes.
+
+4. Goal:
+
+The goal of the project is to develop a reliable back-end system that provides users with real-time news articles from various sources. It will also allow users to bookmark and categorize articles. The project aims to ensure fast and accurate data processing and provide a scalable solution that can handle increasing user demands and data.
+
+5. Users:
+
+The target users are developers and stakeholders interested in examining the efficiency and capabilities of the back-end system. The project will also serve as a demonstration of back-end technologies and integration skills for potential employers or evaluators.
